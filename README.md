@@ -1,4 +1,4 @@
-# Programming_mandatory
+# Programming mandatory
 Programming assignment - Mandatory
 
 Peter Husted Simonsen - 2018
