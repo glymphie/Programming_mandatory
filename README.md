@@ -1,5 +1,6 @@
 # Programming_mandatory
 Programming assignment - Mandatory
+
 Peter Husted Simonsen - 2018
 
 These programs were made as a mandatory assignment for IT-Technology programming class.
