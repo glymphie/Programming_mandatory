@@ -1,5 +1,3 @@
-
-
 def fibonacciLastDigit(largestFib):
     x = 0
     fibNumbers = [0,1]
