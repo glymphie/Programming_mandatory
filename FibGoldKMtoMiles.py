@@ -2,14 +2,14 @@ def fibonacciLastDigit(largestFib):
     x = 0
     fibNumbers = [0,1]
     while largestFib >= fibNumbers[-1]:
-        fibNumbers.append(fibNumbers[0+x] + fibNumbers[1+x])
+        fibNumbers.append(fibNumbers[x] + fibNumbers[1+x])
         x += 1
     return fibNumbers
 
 def fibonacciAmount(amountFib):
     fibNumbers = [0,1]
     for x in range(amountFib):
-        fibNumbers.append(fibNumbers[0+x] + fibNumbers[1+x])
+        fibNumbers.append(fibNumbers[x] + fibNumbers[1+x])
     return fibNumbers
 
 def milesToKm(mile):
